@@ -1,4 +1,4 @@
-p{
+.p-tag{
     background-color: cyan;
     color: red;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -7,4 +7,5 @@ p{
     padding: 10px;
     box-shadow: 10px 10px 20px black;
     text-align: center;
+    margin-top: 20px;
 }
